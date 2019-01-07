@@ -1,0 +1,4 @@
+alias ..="cd .."
+alias dev="cd ~/dev"
+alias c="clear"
+
